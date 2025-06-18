@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-hello
-<!--
 **DashaShmi/DashaShmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###🧑‍💻 About Me
@@ -16,5 +14,3 @@ hello
 ### 🌿 Хобби
 Веду Eco-sustainability проект по изготовлению аксессуаров из переработанных материалов[Snova Upcycle](https://www.instagram.com/snova.upcycle)
 Увлекаюсь плаванием, люблю хайкинг и путешествия.
-
--->
